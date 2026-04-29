@@ -1,0 +1,31 @@
+R_DEF: Internal format may change without notice
+local
+color background
+color black
+color blocked
+color primary
+color primaryDark
+color statusActive
+color statusInactive
+color textPrimary
+color textSecondary
+color white
+drawable bg_badge_blocked
+drawable ic_call_blocked
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id btnClear
+id btnEnable
+id recyclerView
+id toolbar
+id tvBlockedCount
+id tvEmpty
+id tvPhoneNumber
+id tvStatus
+id tvTimestamp
+layout activity_main
+layout item_blocked_call
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Theme.PhoneSpamKiller

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.phonespamkiller.app-mergeDebugResources-38:/layout/item_blocked_call.xml",
+        "source": "com.phonespamkiller.app-main-41:/layout/item_blocked_call.xml"
+    },
+    {
+        "merged": "com.phonespamkiller.app-mergeDebugResources-38:/layout/activity_main.xml",
+        "source": "com.phonespamkiller.app-main-41:/layout/activity_main.xml"
+    }
+]
