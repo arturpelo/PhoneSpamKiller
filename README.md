@@ -14,11 +14,6 @@ Aplikacja Android blokująca połączenia przychodzące od numerów nieobecnych 
 
 ---
 
-## Zrzuty ekranu
-
-> *(dodaj własne zrzuty ekranu po pierwszym uruchomieniu)*
-
----
 
 ## Wymagania
 
