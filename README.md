@@ -208,3 +208,38 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
+
+---
+
+### Disclaimer of Liability and Waiver of Claims
+
+**THE SOFTWARE IS PROVIDED "AS IS", WITHOUT ANY WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.**
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW:
+
+1. **No liability of the author.** The author(s) of the Software shall not be
+   liable — whether in contract, tort (including negligence), strict liability,
+   or any other legal theory — for any claims, damages, or other liability,
+   including but not limited to direct, indirect, incidental, special,
+   consequential, or punitive damages, or loss of profits, arising out of or
+   in connection with the use of, or inability to use, the Software.
+
+2. **No liability for telephone system behavior.** The Software relies on the
+   `CallScreeningService` API provided by the Android platform. The author
+   accepts no responsibility for missed or delayed call blocking, dropped
+   incoming calls, incorrect number identification, or any consequences
+   resulting from the behavior of the operating system, device manufacturer,
+   or telecommunications operator.
+
+3. **Waiver of claims by the user.** By downloading, installing, or running
+   the Software, the user agrees to these terms and irrevocably waives all
+   present and future claims against the author arising from any damage caused
+   by the use of, or inability to use, the Software, including claims based on
+   product liability, consumer protection law, and tort law.
+
+4. **Territorial scope.** This disclaimer applies to the fullest extent
+   permitted by the law of the user's jurisdiction. In jurisdictions where a
+   complete exclusion of liability is not permitted, the author's liability is
+   limited to the minimum extent required by applicable law.
