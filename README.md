@@ -125,6 +125,66 @@ SpamCallScreeningService.onScreenCall()
 
 ## Licencja
 
+### Wersja polska (tłumaczenie informacyjne)
+
+**Licencja MIT**
+
+Copyright (c) 2024 PhoneSpamKiller
+
+Niniejszym udziela się, bezpłatnie, każdej osobie, która wejdzie w posiadanie kopii
+niniejszego oprogramowania i związanych z nim plików dokumentacji (dalej „Oprogramowanie"),
+zezwolenia na korzystanie z Oprogramowania bez ograniczeń, w tym bez ograniczeń prawa
+do używania, kopiowania, modyfikowania, łączenia, publikowania, rozpowszechniania,
+sublicencjonowania i/lub sprzedaży kopii Oprogramowania, a także do zezwalania osobom,
+którym Oprogramowanie jest dostarczane, na czynienie tego samego, z zastrzeżeniem
+następujących warunków:
+
+Powyższa informacja o prawach autorskich oraz niniejsza informacja o zezwoleniu muszą być
+zawarte we wszystkich kopiach lub istotnych częściach Oprogramowania.
+
+---
+
+### Wyłączenie odpowiedzialności i zrzeczenie się roszczeń
+
+**OPROGRAMOWANIE JEST DOSTARCZANE „W STANIE, W JAKIM SIĘ ZNAJDUJE" (AS IS), BEZ
+JAKICHKOLWIEK GWARANCJI – WYRAŹNYCH ANI DOROZUMIANYCH – W TYM BEZ GWARANCJI
+PRZYDATNOŚCI HANDLOWEJ, PRZYDATNOŚCI DO OKREŚLONEGO CELU ORAZ NIENARUSZANIA PRAW
+OSÓB TRZECICH.**
+
+W NAJSZERSZYM ZAKRESIE DOPUSZCZALNYM PRZEZ OBOWIĄZUJĄCE PRAWO:
+
+1. **Brak odpowiedzialności autora.** Autor lub autorzy Oprogramowania nie ponoszą
+   odpowiedzialności – na zasadzie winy, ryzyka ani na żadnej innej podstawie prawnej –
+   za jakiekolwiek roszczenia, szkody lub inne zobowiązania, w tym szkody bezpośrednie,
+   pośrednie, incydentalne, szczególne, następcze lub utratę zysku, wynikające z korzystania
+   z Oprogramowania, niemożności jego używania lub w inny sposób z nim związane,
+   niezależnie od tego, czy do szkody doszło w ramach odpowiedzialności kontraktowej,
+   deliktowej (w tym wynikającej z zaniedbania) czy na innej podstawie.
+
+2. **Brak odpowiedzialności za działanie systemu telefonicznego.** Oprogramowanie
+   korzysta z systemowego interfejsu `CallScreeningService` udostępnianego przez platformę
+   Android. Autor nie odpowiada za pominięcie lub opóźnienie blokowania połączeń,
+   utratę połączeń przychodzących, nieprawidłowe rozpoznanie numeru ani za żadne
+   konsekwencje wynikające z działania lub braku działania systemu operacyjnego,
+   producenta urządzenia lub operatora telekomunikacyjnego.
+
+3. **Zrzeczenie się roszczeń przez użytkownika.** Pobierając, instalując lub
+   uruchamiając Oprogramowanie, użytkownik wyraża zgodę na powyższe warunki i
+   nieodwołalnie zrzeka się wszelkich obecnych i przyszłych roszczeń wobec autora
+   z tytułu szkód wynikłych z korzystania z Oprogramowania lub z niemożności jego
+   używania, w tym roszczeń opartych na przepisach o odpowiedzialności za produkt,
+   ochronie konsumentów oraz czynach niedozwolonych.
+
+4. **Zakres terytorialny.** Niniejsze wyłączenie odpowiedzialności stosuje się
+   w maksymalnym zakresie dozwolonym przez przepisy prawa właściwego dla miejsca
+   zamieszkania lub siedziby użytkownika. W jurysdykcjach, gdzie całkowite wyłączenie
+   odpowiedzialności nie jest dopuszczalne, odpowiedzialność autora ograniczona jest
+   do minimum przewidzianego przez prawo.
+
+---
+
+### English version (original)
+
 ```
 MIT License
 
